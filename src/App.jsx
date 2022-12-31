@@ -6,6 +6,7 @@ function App() {
     <div class={styles.App}>
       <header class={styles.header}>
         <img src={logo} class={styles.logo} alt="logo" />
+        <h2>Ben Merryman was here, 2022-12-31, 13:00 ET</h2>
         <p>
           Edit <code>src/App.jsx</code> and save to reload.
         </p>
